@@ -85,6 +85,7 @@
     ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Python Libraries**:
 
@@ -98,6 +99,8 @@
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![StaticBadge](https://img.shields.io/badge/BeautifulSoup-%234ea94b?style=for-the-badge)
+    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -115,7 +118,8 @@
 - **Extras**:
 
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 </p>
@@ -129,5 +133,5 @@
     <img align=top src="https://github-stats-alpha.vercel.app/api?username=RPorcedda&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
 </a>
 <a align=top href="https://github.com/RPorcedda">
-    <img align=top alt="Riccardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPorcedda&langs_count=8&theme=react&hide_border=true&title_color=37BCF6&icon_color=fff"height="192px"/></a>
+    <img align=top alt="Riccardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPorcedda&langs_count=8&theme=react&layout=compact&hide_border=true&title_color=37BCF6&icon_color=fff" width="300px"/></a>
 </div>
