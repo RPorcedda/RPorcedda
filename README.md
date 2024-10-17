@@ -129,5 +129,5 @@
     <img align=top src="https://github-stats-alpha.vercel.app/api?username=RPorcedda&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
 </a>
 <a align=top href="https://github.com/RPorcedda">
-    <img align=top alt="Riccardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPorcedda&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff" height="192px"/></a>
+    <img align=top alt="Riccardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPorcedda&langs_count=8&theme=react&hide_border=true&title_color=37BCF6&icon_color=fff"height="192px"/></a>
 </div>
