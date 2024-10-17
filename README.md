@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdmNno4M3QxMHpqOGZ6dWw1Mng2cXhjOGdrd2U2eHg3NThlOXMzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.webp" />  
+  <img width="250" src="https://i.giphy.com/7VzgMsB6FLCilwS30v.webp" />  
   <div style="display:inline-block; vertical-align:bottom;">
     <h1><strong>Riccardo Porcedda</strong></h1>
     <p>Ph.D. Student in AI & Society @ <a href="https://www.santannapisa.it/en/formazione/national-phd-artificial-intelligence">Sant'Anna School of Advanced Studies</a></p>
