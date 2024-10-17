@@ -1,8 +1,13 @@
 <div style="align-items:center;">
-  <img align=left width="250" margin-right="20px" src="./assets/networkx_animation.gif" alt="network_animation"" />
+  <img align=left width="300" margin-right="20px" src="./assets/networkx_animation.gif" alt="network_animation"" />
   <div width=10px></div>
   <div>
-    <h3><strong>_Riccardo Porcedda_</strong></h3>
+    <!-- <h3><strong>_Riccardo Porcedda_</strong></h3> -->
+    <div id="user-content-toc">
+      <ul align="left">
+          <summary><h1 style="display: inline-block">&nbsp;Riccardo Porcedda</h1></summary>
+      </ul>
+    </div>
     <pre>Ph.D. Student in AI & Society @ <a href="https://www.santannapisa.it/en/formazione/national-phd-artificial-intelligence">Sant'Anna School of Advanced Studies</a></pre>
     <pre>M.Sc. Data Science @ <a href="https://www.unimib.it/graduate/data-science">University of Milano-Bicocca</a></pre>
     <pre>B.Sc. Physics @ <a href="https://www.df.unipi.it/didattica/en/bachelors-degree/overview/">University of Pisa</a></pre>
@@ -117,7 +122,7 @@
 
 ---
 
-<b>📊 &nbsp;GitHub Stats</b></summary>
+<b>📊 &nbsp;GitHub Stats</b>
 <br />
 <div align="center">
 <a align=top href="https://github.com/RPorcedda">
