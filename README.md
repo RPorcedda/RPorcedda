@@ -1,19 +1,20 @@
-
-<div align="left">
-  <img width="250" src="./assets/networkx_animation.gif" alt="network_animation" style="float: left; margin-right: 20px;" />
+<div style="align-items:center;">
+  <img align=left width="250" margin-right="20px" src="./assets/networkx_animation.gif" alt="network_animation"" />
+  <div width=10px></div>
   <div>
     <h1><strong>Riccardo Porcedda</strong></h1>
-    <p>Ph.D. Student in AI & Society @ <a href="https://www.santannapisa.it/en/formazione/national-phd-artificial-intelligence">Sant'Anna School of Advanced Studies</a></p>
-    <p>M.Sc. Data Science @ <a href="https://www.unimib.it/graduate/data-science">University of Milano-Bicocca</a></p>
-    <p>B.Sc. Physics @ <a href="https://www.df.unipi.it/didattica/en/bachelors-degree/overview/">University of Pisa</a></p>
-    <p><strong>Main Topics:</strong><br>
-    Artificial Intelligence | Graph Theory | Financial Networks</p>
+    <pre>Ph.D. Student in AI & Society @ <a href="https://www.santannapisa.it/en/formazione/national-phd-artificial-intelligence">Sant'Anna School of Advanced Studies</a></pre>
+    <pre>M.Sc. Data Science @ <a href="https://www.unimib.it/graduate/data-science">University of Milano-Bicocca</a></pre>
+    <pre>B.Sc. Physics @ <a href="https://www.df.unipi.it/didattica/en/bachelors-degree/overview/">University of Pisa</a></pre>
+    <pre><strong>Main Topics:</strong><br>
+    Artificial Intelligence | Graph Theory | Financial Networks</pre>
   </div>
 </div>
-<br clear="left"/>
+<br/>
 <img align="right" src="https://komarev.com/ghpvc/?username=RPorcedda&label=Visitors&style=flat&color=0e75b6" alt="profile_views" />
 
 
+<br/>
 
 ---
 ### Other curiosities:
